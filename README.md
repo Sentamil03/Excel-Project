@@ -1,4 +1,5 @@
 📊 Sales Analytics Dashboard
+
 📌 Project Overview
 This project focuses on sales analytics using Excel, providing insights into revenue, costs, net profit, and order trends. The interactive dashboard helps in data-driven decision-making by visualizing key business metrics.
 
