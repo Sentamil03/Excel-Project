@@ -39,7 +39,10 @@ Use Power Query & Pivot Tables for deeper insights.
 🔹 Expand analysis with predictive modeling
 
 📬 Contact
+
 If you have any questions or feedback, feel free to connect:
+
 📧 Email: sentamilkumaran1210@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/sentamilkumaran/
 
